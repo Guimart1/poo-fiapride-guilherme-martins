@@ -1,4 +1,4 @@
-# Projeto FiapRide - [Guuilherme Martins dos Santos]
+# Projeto FiapRide - [Guilherme Martins dos Santos]
 
 ## 👤 Informações do Aluno
 
